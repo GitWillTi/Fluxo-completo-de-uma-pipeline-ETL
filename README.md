@@ -3,5 +3,5 @@ o fluxo completo de uma pipeline ETL integrando várias ferramentas: SQLite, DBe
 
 Primeiro Instale os Sofwares 
 
-![Uploading image.png…]()
+[![Uploading image.png…]()](https://github.com/GitWillTi/Fluxo-completo-de-uma-pipeline-ETL/issues/2#issue-3677828616)
 
