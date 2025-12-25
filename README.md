@@ -114,6 +114,10 @@ CountryName varchar (255),
 
 Vá para o Spoon ele estará dentro da pasta data integration 
 
+o Restante vai estar nesses videos de 01 a 09 partes explicando um pouco melhor, acesse o link abaixo
+
+https://youtu.be/j6RAIShkvGw?si=S0xeIdPRc25SaI5i
+
 
 
 
